@@ -79,6 +79,5 @@ include_once 'app/Config.inc.php';
             <li><a class="navs" href="#">CONTATOS</a></li>
         </ul>
     </div>
-    <div class="linha"></div>
 
 </header>

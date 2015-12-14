@@ -6,6 +6,10 @@
    }
 }
 
+header{
+    border-bottom: 3px solid #808080;
+}
+
 .brand-logo img{
 
 }
