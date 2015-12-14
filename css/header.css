@@ -1,0 +1,46 @@
+*{margin: 0; padding: 0;}
+
+@media screen and (max-width: 768px) {
+   body{
+       background: red;
+   }
+}
+
+.brand-logo img{
+
+}
+
+.nav-wrapper{
+    background-color: #3C3C3C;
+}
+
+
+.menu i{
+    font-size: 1rem;
+}
+.menu{
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.menu a{
+
+    font-size: 1rem;
+    color: #333333;
+
+}
+.ladoleft{
+    background: #EEF1F5;
+}
+menu a:hover{
+     cursor: pointer;
+     font-weight: bold;
+}
+
+
+@media screen and (-width: 994px) {
+   .ladoleft{display: none;}
+}
+
+.azul{
+    color: #044690;
+}
