@@ -1,5 +1,124 @@
 footer{
+    position: relative;
     float: left;
-    background: #868593;
-    height: 150px;
+    background: #1a2a68;
+    height: 350px;
+    margin-top: 50px;
 }
+.vinteporcento{
+    float: left;
+    height: 250px;
+    background: #1a2a68;
+    position: relative;
+    width: 23%;
+    margin: 2% 1% 2% 1%;
+    color: white;
+}
+.fundo{
+    background: #223786;
+    position: relative;
+    float: left;
+    height: 90px;
+}
+
+.iconefooter{
+    width: 40px;
+    float: left;
+    /*margin-top: 10px;*/
+    padding-bottom: 5px;
+    border-bottom: 2px solid #3767b3;
+}
+.titulofooter{
+    width: 200px;
+    float: left;
+    font-size: 1.5em;
+    margin-top: 2px;
+    /*font-weight: bold;*/
+    padding-bottom: 9px;
+    border-bottom: 1px solid #152360;
+}
+.descricaofooter{
+    font-size: 1em;
+    float: left;
+    margin: 15px 0 15px 0;
+    color: #a5aad4;
+}
+
+.iconecontato{
+    color: #1d9ad2;
+    padding-right: 10px;
+}
+.contato{
+    font-size: 0.9em;
+    margin: 2px 0 7px 0;
+    color: #a5aad4;
+}
+
+.imagemnoticia{
+    width: 60px;
+    height: 60px;
+    float: left;
+    margin-right: 7px;
+}
+
+.noticiafooter{
+    font-size: 0.9em;
+    margin: 0 0 0 0;
+    color: #a5aad4;
+}
+.postagemnoticia{
+    font-style: italic;
+    color: #a5aad4;
+}
+.noticia{
+    margin-top: 20px;
+    float: left;
+}
+
+.imagemgaleria{
+    width: 70px;
+    height: 70px;
+    float: left;
+    margin: 0 1% 5% 1%;
+}
+
+.textofundo{
+    float: left;
+    margin: 3.5% 0 3% 0;
+    color: #a5aad4;
+    width: 75%;
+}
+
+.redesocial{
+    float: left;
+    width: 23%;
+    margin: 2.5% 1% 2% 1%;
+}
+
+.iconesocial{
+    float: left;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #1f2f7a;
+    font-size: 1.2em;
+    margin: 0 2px 0 2px;
+}
+.is{
+    margin: 11px 14px 0 12px;
+    color: #3396cf;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
