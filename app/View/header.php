@@ -28,6 +28,7 @@ include_once 'app/Config.inc.php';
     <link href="icons/css/font-awesome.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="css/geral.css">
     <link rel="stylesheet" href="css/inicio.css">
+    <link rel="stylesheet" href="css/faleconosco.css">
 
 
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>

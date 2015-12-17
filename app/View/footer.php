@@ -21,7 +21,8 @@
             <i class="iconefooter fa fa-heartbeat fa-2x"></i>
             <h6 class="titulofooter">Instituto Amar Mais</h6>
             <h6 class="descricaofooter">Lorem Ipsum é simplesmente uma simulação de texto da indústria.</h6>
-            <ul>
+
+            <ul class="divsao">
                 <li class="contato">
                     <i class="fa fa-building iconecontato"></i>
                      PT, East 39th Street, New York, NY

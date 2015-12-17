@@ -24,17 +24,19 @@ footer{
 .iconefooter{
     width: 40px;
     float: left;
+    position: relative;
     /*margin-top: 10px;*/
-    padding-bottom: 5px;
+    padding-bottom: 4px;
     border-bottom: 2px solid #3767b3;
 }
 .titulofooter{
-    width: 200px;
+    width: 80%;
     float: left;
     font-size: 1.5em;
     margin-top: 2px;
+    position: relative;
     /*font-weight: bold;*/
-    padding-bottom: 9px;
+    padding-bottom: 8px;
     border-bottom: 1px solid #152360;
 }
 .descricaofooter{
@@ -52,6 +54,10 @@ footer{
     font-size: 0.9em;
     margin: 2px 0 7px 0;
     color: #a5aad4;
+}
+
+.divsao{
+    float: left;
 }
 
 .imagemnoticia{
