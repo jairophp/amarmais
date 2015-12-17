@@ -6,8 +6,8 @@
  * Time: 00:34
  */
 
-$class  = 'Inicio';
-$metado = 'index';
+$class   =  (isset($_GET['con']))    ?  $_GET['con']   : 'Inicio';
+$metado  =  (isset($_GET['event']))  ?  $_GET['event'] : 'index';
 require_once 'app/Controller/'.$class.'.php';
 $obj = new $class();
 $obj->$metado();

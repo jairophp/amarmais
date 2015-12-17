@@ -19,7 +19,7 @@
     <div class="oitentapocento">
         <section class="vinteporcento">
             <i class="iconefooter fa fa-heartbeat fa-2x"></i>
-            <h6 class="titulofooter">Clinical Center</h6>
+            <h6 class="titulofooter">Instituto Amar Mais</h6>
             <h6 class="descricaofooter">Lorem Ipsum é simplesmente uma simulação de texto da indústria.</h6>
             <ul>
                 <li class="contato">
@@ -43,7 +43,7 @@
         </section>
         <section class="vinteporcento">
             <i class="iconefooter fa fa-heartbeat fa-2x"></i>
-            <h6 class="titulofooter">Recente News</h6>
+            <h6 class="titulofooter">Notícias</h6>
             
             <section class="noticia">
                 <img class="imagemnoticia" src="img/logo.jpg">
@@ -58,7 +58,7 @@
         </section>
         <section class="vinteporcento">
             <i class="iconefooter fa fa-heartbeat fa-2x"></i>
-            <h6 class="titulofooter">Patient Information</h6>
+            <h6 class="titulofooter">Pacientes</h6>
 
             <section class="noticia">
                 <ul>
@@ -87,7 +87,7 @@
         </section>
         <section class="vinteporcento">
             <i class="iconefooter fa fa-heartbeat fa-2x"></i>
-            <h6 class="titulofooter">Our Image Gallery</h6>
+            <h6 class="titulofooter">Galeria de Fotos</h6>
 
             <section class="noticia cempocento">
                 <img class="imagemgaleria" src="img/logo.jpg">
@@ -103,7 +103,7 @@
 
     <div class="cempocento fundo">
         <div class="oitentapocento fundo">
-            <h6 class="textofundo">Dotor Medical Clinic. Copyright 2018. All Reserved.</h6>
+            <h6 class="textofundo">Instituto Amar Mais &copy; Copyright 2015. Todos os Direitos Reservados.</h6>
             <section class="redesocial">
                 <div class="iconesocial">
                     <i class="fa fa-skype is"></i>

@@ -13,7 +13,7 @@ define('BASE', 'http://localhost/amarmais/');
 define('HOST', 'localhost');
 define('USER', 'root');
 define('PASS', '');
-define('DBSA', '');
+define('DBSA', 'amarmais');
 
 // AUTO LOAD DE CLASSES ####################
 function __autoload($Class) {
@@ -29,7 +29,7 @@ function __autoload($Class) {
     endforeach;
 
     if (!$iDir):
-        trigger_error("Nï¿½o foi possï¿½vel incluir {$Class}.php");
+        trigger_error("Não foi possivel {$Class}.php");
         die;
     endif;
 }

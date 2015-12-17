@@ -76,7 +76,7 @@ include_once 'app/Config.inc.php';
             <li><a class="navs" href="#">EVENTOS</a></li>
             <li><a class="navs" href="#">QUEM SOMOS</a></li>
             <li><a class="navs" href="#">DOAÇÕES</a></li>
-            <li><a class="navs" href="#">CONTATOS</a></li>
+            <li><a class="navs" href="index.php?event=contato">CONTATOS</a></li>
         </ul>
     </div>
 
