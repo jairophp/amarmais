@@ -29,7 +29,11 @@ include_once 'app/Config.inc.php';
     <link rel="stylesheet" href="css/geral.css">
     <link rel="stylesheet" href="css/inicio.css">
     <link rel="stylesheet" href="css/faleconosco.css">
+    <link rel="stylesheet" href="css/breakpoints.css">
 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js" type="text/javascript"></script>
 
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
 
@@ -70,15 +74,34 @@ include_once 'app/Config.inc.php';
         </div>
     </div>
     <div class="topo oitentapocento">
-        <img src="img/logo.jpg">
-        <ul>
-            <li><a class="navs active" href="#">HOME</a></li>
+        <a href="index.php?event=index" title="Instituto Amar Mais" ><img src="img/logo.jpg"></a>
+        <!--<button id="slidx_button"><i class="fa fa-bars"></i></button>
+        <nav id="slidx_menu">-->
+        <!--<div class="barra-de-navegacao responsivo">
+                <ul>
+                    <li><a class="navs href="novo.html">Sobre</a></li>
+                    <li><a href="portefolio.html">Portefólio</a></li>
+                    <li><a href="contactos.html">Contactos</a></li>
+                    <li class="esconder iniciar"><a rel="nofollow" href="#">Mostrar</a></li>
+                </ul>
+        </div>
+
+        <div class="mini-barra-de-navegacao esconder"></div>-->
+
+        <ul class="barra-de-navegacao responsivo">
+            <li><a class="navs active" href="index.php?event=index">HOME</a></li>
             <li><a class="navs" href="#">NOTICIAS</a></li>
             <li><a class="navs" href="#">EVENTOS</a></li>
             <li><a class="navs" href="#">QUEM SOMOS</a></li>
             <li><a class="navs" href="#">DOAÇÕES</a></li>
             <li><a class="navs" href="index.php?event=contato">CONTATOS</a></li>
         </ul>
+        <!--</nav>-->
     </div>
+    <!--////////////////-->
+
+    <!--///////////////-->
 
 </header>
+
+

@@ -1,8 +1,8 @@
 *{margin: 0; padding: 0;}
 
-@media screen and (max-width: 768px) {
-   body{
-       background: red;
+@media screen and (max-width: 778px) {
+   header{
+
    }
 }
 
@@ -48,3 +48,9 @@ menu a:hover{
 .azul{
     color: #044690;
 }
+
+
+
+
+
+

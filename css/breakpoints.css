@@ -1,0 +1,195 @@
+@media screen and (max-width: 1364px){
+    footer .titulofooter{
+        font-size: 1.4em;
+    }
+    .topo a img{
+        width: 14%;
+    }
+}
+@media screen and (max-width: 1077px){
+    .novo, .mvv{
+        height: 155px;
+    }
+    .tdepoimento{
+        width: 70%;
+        left: 15%;
+        height: 15%;
+    }
+    .topo a img{
+        width: 16%;
+    }
+    .bolla{
+        left: 34%;
+        right: 34%;
+    }
+    .slide{
+        height: 325px;
+    }
+}
+@media screen and (max-width: 860px){
+    .novo, .mvv{
+        height: 165px;
+    }
+    .tdepoimento{
+        width: 80%;
+        left: 10%;
+        height: 10%;
+    }
+    .topo a img{
+        width: 18%;
+    }
+    .bolla{
+        left: 30%;
+        right: 30%;
+    }
+    .slide{
+        height: 257px;
+    }
+}
+@media screen and (max-width: 802px) {
+    .novo, .mvv{
+        height: 180px;
+    }
+    .tdepoimento{
+        width: 100%;
+        left: 0;
+        height: 1%;
+    }
+    .slide{
+        height: 230px;
+    }
+
+}
+
+@media screen and (max-width: 695px){
+    .novo, .mvv{
+        height: 195px;
+    }
+    .topo a img{
+        width: 23%;
+    }
+    .bolla{
+        left:25%;
+        right: 25%;
+    }
+    .slide{
+        height: 200px;
+    }
+}
+
+@media screen and (max-width: 626px){
+    .novo, .mvv{
+        height: 210px;
+    }
+    .bolla{
+        left:22%;
+        right: 22%;
+    }
+    .topo a img{
+        width: 25%;
+    }
+    .slide{
+        height: 185px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .topo a img{
+        width: 30%;
+    }
+    .slide{
+        height: 175px;
+    }
+    .trintatres{
+        width: 100%;
+        float: left;
+    }
+    .novo:first-child{
+        height: 150px;
+        padding: 0 1% 0 3%;
+    }
+    .novo{
+        height: 130px;
+        padding: 0 1% 0 3%;
+    }
+    .novo:last-child{
+        height: 100px;
+    }
+    .mvv{
+        height: 380px;
+    }
+    .visao{
+        padding-left: 3%;
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .bolam{
+        margin-left: 0;
+    }
+    .bolla{
+        left:39%;
+        right: 39%;
+    }
+}
+@media screen and (max-width: 392px){
+    .topo a img{
+        width: 35%;
+    }
+    .slide{
+        height: 135px;
+    }
+    .novo:first-child{
+        height: 160px;
+    }
+    .novo:last-child{
+        height: 90px;
+    }
+    .bolla{
+        left:34.5%;
+        right: 39%;
+    }
+}
+@media screen and (max-width: 359px){
+    .topo a img{
+        width: 44%;
+    }
+    .novo:first-child{
+        height: 167px;
+    }
+    .novo{
+        height: 150px;
+    }
+    .mvv{
+        height: 407px;
+    }
+}
+@media screen and (max-width: 345px){
+    .novo:last-child{
+        height: 100px;
+    }
+    .mvv{
+        height: 417px;
+    }
+}
+@media screen and (max-width: 332px){
+    .novo:first-child{
+        height: 175px;
+    }
+    .mvv{
+        height: 425px;
+    }
+}
+@media screen and (max-width: 321px) {
+    .novo{
+        height: 160px;
+    }
+
+    .mvv {
+        height: 435px;
+    }
+}
+
+
+
+
+

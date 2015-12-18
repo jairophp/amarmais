@@ -12,7 +12,7 @@ define('BASE', 'http://localhost/amarmais/');
 // CONFIGRAï¿½ï¿½ES DO SITE ####################
 define('HOST', 'localhost');
 define('USER', 'root');
-define('PASS', '');
+define('PASS', 'linux');
 define('DBSA', 'amarmais');
 
 // AUTO LOAD DE CLASSES ####################

@@ -29,6 +29,11 @@ section > div > img{
     height: 140px;
     position: relative;
 }
+.novo{
+    background: #024a92;
+    height: 140px;
+    position: relative;
+}
 
 .trintatres{
     width: 32%;
@@ -63,11 +68,11 @@ section > div > img{
     left: 30px;
 }
 
-section > div > .visao{
+.visao{
     background: #0fa2d5;
     padding-left: 2%;
     margin-left: 2%;
-    margin-right: 2%
+    margin-right: 2%;
 }
 
 h5, h6{
@@ -77,6 +82,7 @@ h5, h6{
 .servico{
     float: left;
     padding-top: 3.5%;
+    position: relative;
 }
 
 .bolla{
@@ -160,6 +166,7 @@ h5, h6{
 
 .depoimento{
     float: left;
+    position: relative;
 }
 .pdepoimento{
     border-radius: 50%;
@@ -173,6 +180,7 @@ h5, h6{
     height: 150px;
 }
 .tdepoimento{
+    float: left;
     position: relative;
     background: #f6fbff;
     width: 60%;
@@ -200,8 +208,99 @@ h5, h6{
     text-align: center;
 }
 
+/*/////////////////*/
+
+.barra-de-navegacao ul {
+    height:40px;
+    padding:0 10px 0 0;
+    background:#0A1F5D;
+    margin:0 0 0 0;
+}
+.barra-de-navegacao ul li {
+    float:left;
+    list-style:none;
+    border-right:1px solid #2D458B;
+    padding:10px 20px;
+}
+.barra-de-navegacao ul li:hover {
+    background:#051343;
+}
+.barra-de-navegacao ul li a {
+    color:#fff;
+    font-size:12px;
+    text-decoration:none;
+    font-family: Arial, sans-serif;
+}
+.barra-de-navegacao ul li a:hover{
+    text-decoration:none;
+}
+/*
+remover os elementos que so rserao  mostrados com javascript numa tela pequena, menor que 796
+
+*/
+.esconder {
+    display:none;
+}
+
+/*
+formata a barra de navegacao responsiva
+
+a mini barra com o toggle do menu
 
 
+*/
+.mini-barra-de-navegacao {
+    padding:0;
+    margin-left:5px;
+    margin-right:5px;
+}
+.mini-barra-de-navegacao ul {
+    padding:0;
+    margin:0;
+}
+.mini-barra-de-navegacao ul li {
+    margin:0 0 0 0;
+    padding:10px 18px 12px 23px;
+    list-style:none;
+    border-bottom:1px solid #27449A;
+}
+.mini-barra-de-navegacao ul li:hover {
+    background:#010B27;
+}
+.mini-barra-de-navegacao ul li a {
+    text-decoration:none;
+    font-size:14px;
+    color:#425BA4;
+    font-family: Arial, sans-serif;
+
+}
+.mini-barra-de-navegacao ul li:last-child{
+    padding-bottom:10px;
+}
+
+
+/*
+a grande sacada do CSS3 está aqui
+
+nas media queries, use e abuse delas
+
+
+*/
+@media (max-width: 796px) {
+    .barra-de-navegacao.responsivo ul li {
+        display:none;
+    }
+    .barra-de-navegacao.responsivo ul li.esconder {
+        display:block;
+    }
+    .barra-de-navegacao.responsivo ul li.esconder:hover {
+        border-radius:4px 0 0 4px;
+    }
+    .barra-de-navegacao.responsivo ul li.esconder a{
+        padding-left:24px;
+    }
+
+}
 
 
 

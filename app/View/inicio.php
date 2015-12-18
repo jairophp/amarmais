@@ -9,7 +9,7 @@
 
 <section class="cempocento mvv">
     <div class="oitentapocento">
-        <section class="trintatres mvv">
+        <section class="trintatres novo">
             <div class="bola">
                 <i class="fa fa-location-arrow fa-2x icone"></i>
             </div>
@@ -17,14 +17,14 @@
             <h6>Oferfecer atenção e uma estrutura que conduza de forma humana no alcance do seu obetivo de cura.
                 Promovendo o esclarecimento ao paciente com câncer no que se diz a respeito aos seus direitos.</h6>
         </section>
-        <section class="trintatres mvv visao">
+        <section class="trintatres novo visao">
             <div class="bola bolam">
                 <i class="fa fa-eye fa-2x icone"></i>
             </div>
             <h5>Visão</h5>
             <h6>Ser reconhecida como a melhor instituição de Assistência e acolhimento humanizado no tratamento de câncer na região até 2020.</h6>
         </section>
-        <section class="trintatres mvv">
+        <section class="trintatres novo">
             <div class="bola">
                 <i class="fa fa-diamond fa-2x icone"></i>
             </div>
@@ -99,6 +99,8 @@
         </section>
     </div>
 </section>
+</section>
+
 
 <section class="cempocento servico">
     <h6 class="subtitle">Depoimentos</h6>
@@ -143,6 +145,13 @@ rfvsv sdbefb sdbs gbkal bafbk alwf vakwf blvs
 
 
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+
+<script type="text/javascript">
+
+
+
+
+</script>
 
 <script type="text/javascript">
     $(document).ready(function(){
