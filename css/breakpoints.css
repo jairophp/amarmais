@@ -26,8 +26,9 @@
         height: 325px;
     }
     .con{
-        width: 65%;
+        width: 75%;
     }
+
 }
 @media screen and (max-width: 860px){
     .novo, .mvv{
@@ -48,6 +49,7 @@
     .slide{
         height: 257px;
     }
+
 }
 @media screen and (max-width: 802px) {
     .novo, .mvv{
@@ -60,6 +62,23 @@
     }
     .slide{
         height: 230px;
+    }
+    .topo ul{
+        margin-top: 10px;
+    }
+    .topo ul li{
+        display: block;
+    }
+    .row .col.s6 {
+        width: 70%;
+        margin-left: 15%;
+        margin-top: 45%;
+    }
+    .con{
+        position: absolute;
+        width: 40%;
+        top: 17%;
+        margin-left: 5%;
     }
 
 }
@@ -78,6 +97,14 @@
     .slide{
         height: 200px;
     }
+    .row .col.s6 {
+        width: 80%;
+        margin-left: 10%;
+        margin-top: 47%;
+    }
+    .con{
+        width: 45%;
+    }
 }
 
 @media screen and (max-width: 626px){
@@ -93,6 +120,15 @@
     }
     .slide{
         height: 185px;
+    }
+    .row .col.s6 {
+        width: 90%;
+        margin-left: 5%;
+        margin-top: 45%;
+    }
+    .con{
+        width: 45%;
+        margin-left: 10%;
     }
 }
 
@@ -133,10 +169,11 @@
         left:39%;
         right: 39%;
     }
+
 }
 @media screen and (max-width: 392px){
     .topo a img{
-        width: 35%;
+        width: 45%;
     }
     .slide{
         height: 135px;
@@ -164,6 +201,15 @@
     }
     .mvv{
         height: 407px;
+    }
+    .row .col.s6 {
+        width: 70%;
+        margin-left: 15%;
+        margin-top: 45%;
+    }
+    .con{
+        top: 35%;
+        margin-left: 5%;
     }
 }
 @media screen and (max-width: 345px){

@@ -75,20 +75,7 @@ include_once 'app/Config.inc.php';
     </div>
     <div class="topo oitentapocento">
         <a href="index.php?event=index" title="Instituto Amar Mais" ><img src="img/logo.jpg"></a>
-        <!--<button id="slidx_button"><i class="fa fa-bars"></i></button>
-        <nav id="slidx_menu">-->
-        <!--<div class="barra-de-navegacao responsivo">
-                <ul>
-                    <li><a class="navs href="novo.html">Sobre</a></li>
-                    <li><a href="portefolio.html">Portefólio</a></li>
-                    <li><a href="contactos.html">Contactos</a></li>
-                    <li class="esconder iniciar"><a rel="nofollow" href="#">Mostrar</a></li>
-                </ul>
-        </div>
-
-        <div class="mini-barra-de-navegacao esconder"></div>-->
-
-        <ul class="barra-de-navegacao responsivo">
+        <ul>
             <li><a class="navs active" href="index.php?event=index">HOME</a></li>
             <li><a class="navs" href="#">NOTICIAS</a></li>
             <li><a class="navs" href="#">EVENTOS</a></li>
@@ -96,11 +83,8 @@ include_once 'app/Config.inc.php';
             <li><a class="navs" href="#">DOAÇÕES</a></li>
             <li><a class="navs" href="index.php?event=contato">CONTATOS</a></li>
         </ul>
-        <!--</nav>-->
     </div>
-    <!--////////////////-->
 
-    <!--///////////////-->
 
 </header>
 

@@ -16,7 +16,7 @@
 
 <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
 <footer class="cempocento">
-    <div class="oitentapocento">
+    <!--<div class="oitentapocento">
         <section class="vinteporcento">
             <i class="iconefooter fa fa-heartbeat fa-2x"></i>
             <h6 class="titulofooter">Instituto Amar Mais</h6>
@@ -100,12 +100,12 @@
                 <img class="imagemgaleria" src="img/logo.jpg">
             </section>
         </section>
-    </div>
+    </div>-->
 
     <div class="cempocento fundo">
         <div class="oitentapocento fundo">
             <h6 class="textofundo">Instituto Amar Mais &copy; Copyright 2015. Todos os Direitos Reservados.</h6>
-            <section class="redesocial">
+            <!--<section class="redesocial">
                 <div class="iconesocial">
                     <i class="fa fa-skype is"></i>
                 </div>
@@ -121,7 +121,7 @@
                 <div class="iconesocial">
                     <i class="fa fa-twitter is"></i>
                 </div>
-            </section>
+            </section>-->
         </div>
     </div>
 
