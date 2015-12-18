@@ -1,25 +1,3 @@
-<style>
-    .fale{
-        margin-top: 10px;
-        border: 1px solid #ccc;
-
-    }
-     .fale button{
-         margin-left: 40%;
-     }
-     .con{
-         width: 55%;
-     }
-    .fale p
-    {
-        margin-top: 10px;
-        text-align: center;
-        float: left;
-        width: 100%;
-        font-weight: bold;
-    }
-
-</style>
 
 <section class="oitentapocento">
 <div class="row">

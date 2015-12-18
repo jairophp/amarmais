@@ -25,6 +25,9 @@
     .slide{
         height: 325px;
     }
+    .con{
+        width: 65%;
+    }
 }
 @media screen and (max-width: 860px){
     .novo, .mvv{
