@@ -39,12 +39,9 @@ CREATE TABLE IF NOT EXISTS `faleconosco` (
 -- Extraindo dados da tabela `faleconosco`
 --
 
-INSERT INTO `faleconosco` (`id`, `nome`, `email`, `telefone`, `mensagem`) VALUES
-(1, 'JAIRO RODRIGUES DE SOUSA', 'guitarristajairo@gmail.com', '99996316429', 'teste'),
-(2, 'JAIRO RODRIGUES DE SOUSA', 'guitarristajairo@gmail.com', '99996316429', 'teste'),
-(3, 'JAIRO RODRIGUES DE SOUSA', 'guitarristajairo@gmail.com', '99996316429', 'teste'),
-(4, 'JAIRO RODRIGUES DE SOUSA', 'guitarristajairo@gmail.com', '99996316429', 'oi');
-
+/*INSERT INTO `faleconosco` (`id`, `nome`, `email`, `telefone`, `mensagem`) VALUES
+(1, '', '', '', ''),
+*/
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;

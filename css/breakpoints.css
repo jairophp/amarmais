@@ -72,13 +72,9 @@
     .row .col.s6 {
         width: 70%;
         margin-left: 15%;
-        margin-top: 45%;
     }
     .con{
-        position: absolute;
-        width: 40%;
-        top: 17%;
-        margin-left: 5%;
+        display: none;
     }
 
 }
@@ -100,10 +96,6 @@
     .row .col.s6 {
         width: 80%;
         margin-left: 10%;
-        margin-top: 47%;
-    }
-    .con{
-        width: 45%;
     }
 }
 
@@ -124,11 +116,6 @@
     .row .col.s6 {
         width: 90%;
         margin-left: 5%;
-        margin-top: 45%;
-    }
-    .con{
-        width: 45%;
-        margin-left: 10%;
     }
 }
 
@@ -168,6 +155,9 @@
     .bolla{
         left:39%;
         right: 39%;
+    }
+    .row .col.s6 {
+        width: 100%;
     }
 
 }
